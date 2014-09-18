@@ -1,7 +1,8 @@
 Package.describe({
   name: 'cfs:graphicsmagick',
   version: '0.0.0',
-  summary: "Adds `gm` to scope with the ability to perform GraphicsMagick or ImageMagick manipulation"
+  summary: "Adds `gm` to scope with the ability to perform GraphicsMagick or ImageMagick manipulation",
+  git: 'http://github.com/ecwyne/Meteor-cfs-graphicsmagick.git'
 });
 
 Npm.depends({
